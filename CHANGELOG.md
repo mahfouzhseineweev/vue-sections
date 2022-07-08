@@ -3,6 +3,8 @@
 
 - Update globalFileUpload media to delete old media when uploading new one
 - Add function to delete media after uploading it
+- Moving the messages (alerts, warnings, errors etc...) to show at the right of the screen so they don't hide the action buttons
+- Show message for user when trying to edit an old version of the page (updated by another user)
 
 ### 1.0.16
 #### Bug Fixes
